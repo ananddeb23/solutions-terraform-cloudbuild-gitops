@@ -14,3 +14,4 @@
 
 
 variable "project" {}
+variable "var_another" {}
